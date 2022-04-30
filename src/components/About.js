@@ -1,22 +1,21 @@
 // Import Assets
-import profile from '../assets/profile.png';
+import profile from "../assets/profile.png";
 
 const About = () => {
-    return (
-        <section className='about'>
-            <h2>About Me</h2>
-            <p>
-                Lorem ipsum dolor sit amet consectetur,
-                adipisicing elit. Neque, pariatur odio.
-                Maxime, labore nihil illo ea voluptate suscipit aliquid animi
-                possimus laudantium fugit obcaecati harum?
-                Assumenda maiores nam magnam animi? Lorem ipsum dolor sit amet consectetur
-                adipisicing elit. Eaque voluptatibus vitae, rem corrupti id consectetur!
-                Sapiente laboriosam nam excepturi exercitationem natus unde, harum
-                consequatur vero amet consectetur quod sunt autem!
-            </p>
-        </section>
-    );
-}
+  return (
+    <section className="about">
+      <h2>About Me</h2>
+      <p>
+        I am a Self-Taught Blockchain Developer. I am a student at heart and
+        love learning new technologies and new ways of creating and doing
+        things. Having 9 years of business experience, I have build, run, and
+        managed multiple businesses. Also, have done management consulting and
+        business strategy consulting. Regular and clear communication is a top
+        priority in all of my projects. I am experienced in Solidity, HTML, CSS
+        and JavaScript. Get in touch, and let's create something great together.
+      </p>
+    </section>
+  );
+};
 
 export default About;
